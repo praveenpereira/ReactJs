@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbar-brand {
+  color: #333;
+}
+
+a {
+  color: #aaa;
+  font-weight: 200;
+}
+.navbar-nav{
+   float: right;
+   list-style: none;
+   padding: 5px;
+   margin: 5px;
+   text-decoration: underline;
+
+}
+.nav-link{
+    margin: 5px;
+	padding: 5px;
+	text-decoration: none;
+   
+}
+
